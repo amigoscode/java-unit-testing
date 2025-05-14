@@ -1,4 +1,4 @@
-package com.amigoscode.exercise;
+package com.amigoscode.unittesting.exercise;
 
 public record Student(
         String name,

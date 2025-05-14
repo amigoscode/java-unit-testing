@@ -1,4 +1,4 @@
-package com.amigoscode.exercise;
+package com.amigoscode.unittesting.exercise;
 
 import java.util.ArrayList;
 import java.util.Collections;

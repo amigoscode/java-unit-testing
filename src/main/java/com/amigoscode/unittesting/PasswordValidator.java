@@ -1,4 +1,4 @@
-package com.amigoscode;
+package com.amigoscode.unittesting;
 
 import java.util.function.Predicate;
 

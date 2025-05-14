@@ -1,8 +1,8 @@
-package com.amigoscode.exercise;
+package com.amigoscode.unittesting.exercise;
 
-import com.amigoscode.User;
-import com.amigoscode.UserDto;
-import com.amigoscode.UserMapper;
+import com.amigoscode.unittesting.User;
+import com.amigoscode.unittesting.UserDto;
+import com.amigoscode.unittesting.UserMapper;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
