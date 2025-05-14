@@ -1,4 +1,4 @@
-package com.amigoscode;
+package com.amigoscode.unittesting;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.condition.EnabledOnOs;

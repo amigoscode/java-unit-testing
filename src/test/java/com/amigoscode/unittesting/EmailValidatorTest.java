@@ -1,6 +1,5 @@
-package com.amigoscode;
+package com.amigoscode.unittesting;
 
-import com.amigoscode.unittesting.EmailValidator;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 

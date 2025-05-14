@@ -1,6 +1,5 @@
-package com.amigoscode;
+package com.amigoscode.unittesting;
 
-import com.amigoscode.unittesting.Calculator;
 import org.junit.jupiter.api.*;
 
 import static org.assertj.core.api.Assertions.assertThat;
